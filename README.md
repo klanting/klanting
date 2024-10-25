@@ -20,7 +20,7 @@
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=klanting&show_icons=true&locale=en&layout=compact&theme=dark" alt="klanting" />
 </p>
 
-#### Wakatime (since october 2024)
+#### Wakatime (since October 2024)
 <p>
 
  <img height=300 src="https://wakatime.com/share/@ae29d411-c229-48c1-a7d3-f202fa14c17f/e04d94eb-dd9d-47cd-8584-c8ddc3c4676a.png" />
