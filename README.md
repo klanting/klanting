@@ -1,6 +1,7 @@
 ## Hi 👋, I'm Tibo Verreycken
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=klanting&label=Profile%20views&color=orange&style=flat" alt="klanting" /> 
+  <img src="https://komarev.com/ghpvc/?username=klanting&label=Profile%20views&color=orange&style=flat" alt="klanting" />
+  
 </p>
 <p align="left">
    Employement Status 🛠: Student 📖
@@ -13,9 +14,17 @@
 
 ### My Stats 📊
 
+#### Github
 <p>
   <img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=klanting&theme=dark" alt="klanting" />
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=klanting&show_icons=true&locale=en&layout=compact&theme=dark" alt="klanting" />
+</p>
+
+#### Wakatime
+<p>
+
+ <img height=300 src="https://wakatime.com/share/@ae29d411-c229-48c1-a7d3-f202fa14c17f/e04d94eb-dd9d-47cd-8584-c8ddc3c4676a.png" />
+ <img height=300 src="https://wakatime.com/share/@ae29d411-c229-48c1-a7d3-f202fa14c17f/0bee3dd9-e9aa-4c3c-b1ef-f2937d67c73e.png" />
 </p>
 
 ### Languages and Tools:
