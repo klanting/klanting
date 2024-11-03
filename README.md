@@ -1,8 +1,5 @@
 ## Hi 👋, I'm Tibo Verreycken
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=klanting&label=Profile%20views&color=orange&style=flat" alt="klanting" />
-  
-</p>
+
 <p align="left">
    Employement Status 🛠: Student 📖
    <br>
