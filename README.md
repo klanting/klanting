@@ -5,7 +5,7 @@
    <br>
    Major 📕: Computer Science 💻
    <br>
-   Institute 🏛: <a href="https://www.uantwerpen.be/nl/" target="_blank">Uantwerpen</a>
+   Institute 🏛: <a href="https://www.uantwerpen.be/nl/" target="_blank">UAntwerpen</a>
 </p>
 
 
