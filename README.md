@@ -12,8 +12,9 @@
 ### My Stats 📊
 
 #### Github
+
 <p>
-  <img height=200 src="https://github-readme-streak-stats-hole.onrender.com/?user=klanting&theme=dark" alt="My commit stats" />
+  <img height=200 src="https://github-readme-streak-stats-gadjx9mw6-klantings-projects.vercel.app/?user=klanting&theme=dark" alt="My commit stats" />
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=klanting&show_icons=true&locale=en&layout=compact&theme=dark" alt="klanting" />
 </p>
 
