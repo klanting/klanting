@@ -14,8 +14,8 @@
 #### Github
 
 <p>
-  <img height=200 src="https://github-readme-streak-stats-hole.onrender.com/?user=klanting&theme=dark" alt="My commit stats" />
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=klanting&show_icons=true&locale=en&layout=compact&theme=dark" alt="klanting" />
+  <img height=200 src="https://github-readme-streak-stats-hole.onrender.com/?user=klanting&theme=dark" alt="My commit stats (can take up to 50 seconds to load)" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=klanting&show_icons=true&locale=en&layout=compact&theme=dark" alt="most used languages in repos" />
 </p>
 
 #### Wakatime (since October 2024)
